@@ -1,1 +1,1 @@
-hej
+hej idag har jag satt upp loggboken och git
