@@ -1,6 +1,7 @@
-hej idag har jag satt upp loggboken och git
+
 24 03 11
 -------------
+hej idag har jag satt upp loggboken och git
 
 ### lista med mål för Black Jack:
 
